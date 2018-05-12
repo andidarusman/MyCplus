@@ -4,6 +4,6 @@ using namespace std;
 //ini program awal
 int main()
 {
-	cout << "hello C++ Rekkyooo "; //ini cetak out
+	cout << "halo Rekk, iki gawe C++ "; //ini cetak out
 	return 0;
 }
